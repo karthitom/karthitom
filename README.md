@@ -1,19 +1,22 @@
-# <p align="center"> [ ACCESSING ENCRYPTED PROFILE... ] </p>
+# <p align="center">── PROJECT: KARTHI ──</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Karthi%20%20The%20Matrix%20Breaker&fontSize=70&animation=fadeIn&fontColor=0D1117" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=ROOT_ACCESS_GRANTED;PENETRATION_TESTER;OSINT_SPECIALIST;GAMER_BY_NIGHT" />
 </p>
 
-## 🖥️ // SYSTEM_USER: KARTHI.EXE
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Python+Developer;Cyber+Security+Learner;Hardcore+Gamer;OSINT+Specialist" />
+  <img src="https://img.shields.io/badge/SKILLS-OFFENSIVE_SECURITY-black?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/RANK-TOP_FRAGGER-black?style=for-the-badge&logo=counter-strike&logoColor=white" />
 </p>
 
 ---
 
-### 🛡️ // PROFILE_INFO:
-```text
-> [LOADING_PERSONAL_FILE...] ▒▒▒▒▒▒▒▒▒▒ 100%
-> USER_CLASS : Hacker / Rogue Gamer
-> PRIMARY_OS : Kali Linux / Windows (Gaming Mode)
-> STATUS     : Deploying Scripts & Grinding Ranks
-> BIO        : Tech enthusiast exploring the deep ends of OSINT and the high stakes of FPS.
+### 📂 // CURRENT_STREAMS
+```bash
+$ whoami
+> Karthi. CSE student. Ethical Hacker. Gamer.
+
+$ cat brain_dump.txt
+> Deep diving into DorkXploit and OSINT automation.
+> Currently optimizing EDR/XDR evasion techniques.
+> Grinding ranks when the servers are quiet.
