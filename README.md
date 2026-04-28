@@ -1,35 +1,59 @@
-<!-- 🔥 CYBERPUNK BANNER -->
+<!-- TOP BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&section=header&text=KARTHI.exe&fontSize=50&fontColor=00ff00&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00ffcc&text=Karthi&height=120&fontSize=50" />
 </p>
 
-<!-- ⚡ TYPING EFFECT -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=28&center=true&vCenter=true&width=700&lines=Booting+Karthi.exe...;Cybersecurity+Specialist;OSINT+Tool+Developer;Gaming+Mode+Activated+🎮;Access+Granted+✔" />
+<h3 align="center">Cybersecurity • OSINT • Developer • Gamer 🎮</h3>
+
+---
+
+## 🧠 About Me
+- 🔐 Cybersecurity learner (focused on real-world skills)
+- 🛠️ Building tools: OSINT, Recon, Automation
+- 🎨 Part of Artza Designs (UI/UX + Branding)
+- 🎯 Goal: Become a strong security specialist
+
+---
+
+## ⚙️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,html,css,js,linux,git,github" />
 </p>
 
 ---
 
-## 🧠 SYSTEM TERMINAL
+## 🚀 Featured Projects
+- 🔎 **Python-OSINT-Tool** → WHOIS, DNS, subdomain recon  
+- 💣 **DorkXploit** → Google dork automation  
+- 🎨 **Login UI** → Clean frontend design  
 
-```bash
-> whoami
-Karthi
+---
 
-> role
-Ethical Hacker | Cybersecurity Learner | Developer
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthitom&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthitom&theme=tokyonight&hide_border=true"/>
+</p>
 
-> status
-Online 🟢
+---
 
-> mission
-Become Elite Cybersecurity Specialist
+## 📈 Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthitom&theme=tokyo-night&hide_border=true"/>
+</p>
 
-SKILL MATRIX
+---
 
-[+] Languages     : Python | Bash | HTML
-[+] Networking    : TCP/IP | DNS | Subnets
-[+] Cybersecurity : OSINT | Recon | Scanning
-[+] Tools         : Nmap | Wireshark | Burp Suite
-[+] Design        : Figma | Adobe
+## 🌐 Connect
+<p>
+<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> • 
+<a href="YOUR_INSTAGRAM_LINK">Instagram</a>
+</p>
 
+---
+
+## 🎮 Fun Side
+- Gaming 🎮 (FPS / Story Mode)
+- Night coding 🌙
+- Exploring cybersecurity tools ⚡
