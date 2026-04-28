@@ -1,22 +1,40 @@
-# <p align="center">── PROJECT: KARTHI ──</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=ROOT_ACCESS_GRANTED;PENETRATION_TESTER;OSINT_SPECIALIST;GAMER_BY_NIGHT" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SKILLS-OFFENSIVE_SECURITY-black?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/RANK-TOP_FRAGGER-black?style=for-the-badge&logo=counter-strike&logoColor=white" />
-</p>
+<h1 align="center">Hey 👋 I'm Karthi</h1>
+<h3 align="center">Cybersecurity Enthusiast | OSINT Developer | Designer</h3>
 
 ---
 
-### 📂 // CURRENT_STREAMS
-```bash
-$ whoami
-> Karthi. CSE student. Ethical Hacker. Gamer.
+## 🚀 About Me
+- 🔐 Ethical Hacking & Cybersecurity
+- 🛠️ Building tools like OSINT, Recon & Security Scripts
+- 🎨 Part of **Artza Designs** (UI/UX & Branding)
+- 📚 Currently learning advanced attack & defense techniques
 
-$ cat brain_dump.txt
-> Deep diving into DorkXploit and OSINT automation.
-> Currently optimizing EDR/XDR evasion techniques.
-> Grinding ranks when the servers are quiet.
+---
+
+## 🧠 Skills
+- 💻 Python | Bash | HTML
+- 🌐 Networking & Security
+- 🕵️ OSINT & Recon
+- 🎨 UI/UX (Figma, Adobe)
+
+---
+
+## 🔥 Projects
+- 🔎 Python-OSINT-Tool → WHOIS, DNS, Subdomain Scan
+- 💣 DorkXploit → Advanced Google Dork Tool
+- 🌐 Login Page UI → HTML Design Project
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=karthitom&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthitom&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+
+---
