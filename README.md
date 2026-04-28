@@ -1,16 +1,19 @@
-# [SYSTEM_LOGIN] -> USER: KARTHI.EXE 🕶️🎮
+# <p align="center"> [ ACCESSING ENCRYPTED PROFILE... ] </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Karthi%20%20The%20Matrix%20Breaker&fontSize=70&animation=fadeIn&fontColor=0D1117" />
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=green" alt="Status"/>
-  <img src="https://img.shields.io/badge/LEVEL-99-blueviolet?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Gamer Level"/>
+## 🖥️ // SYSTEM_USER: KARTHI.EXE
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Python+Developer;Cyber+Security+Learner;Hardcore+Gamer;OSINT+Specialist" />
 </p>
 
 ---
 
-## // About the Entity:
-
+### 🛡️ // PROFILE_INFO:
 ```text
-> [LOADING_PERSONAL_FILE...] ▒▒▒▒▒▒▒▒▒▒
-> INFO: A self-taught cybersecurity enthusiast by day, pixel warrior by night.
-> CORE_SKILLS: Python, WebSec, Reverse Engineering, [Insert Game Name] Strat.
-> CURRENT_OBJECTIVE: Perfecting the art of OSINT and reaching Radiant rank.
+> [LOADING_PERSONAL_FILE...] ▒▒▒▒▒▒▒▒▒▒ 100%
+> USER_CLASS : Hacker / Rogue Gamer
+> PRIMARY_OS : Kali Linux / Windows (Gaming Mode)
+> STATUS     : Deploying Scripts & Grinding Ranks
+> BIO        : Tech enthusiast exploring the deep ends of OSINT and the high stakes of FPS.
