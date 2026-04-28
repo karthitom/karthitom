@@ -1,40 +1,20 @@
-<h1 align="center">Hey 👋 I'm Karthi</h1>
-<h3 align="center">Cybersecurity Enthusiast | OSINT Developer | Designer</h3>
+<h1 align="center">⚡ Karthi.exe ⚡</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=700&lines=Initializing+System...;Cybersecurity+Learner;OSINT+Tool+Developer;Gaming+Mode+Activated+🎮" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔐 Ethical Hacking & Cybersecurity
-- 🛠️ Building tools like OSINT, Recon & Security Scripts
-- 🎨 Part of **Artza Designs** (UI/UX & Branding)
-- 📚 Currently learning advanced attack & defense techniques
+## 🧠 WHOAMI
 
----
-
-## 🧠 Skills
-- 💻 Python | Bash | HTML
-- 🌐 Networking & Security
-- 🕵️ OSINT & Recon
-- 🎨 UI/UX (Figma, Adobe)
-
----
-
-## 🔥 Projects
-- 🔎 Python-OSINT-Tool → WHOIS, DNS, Subdomain Scan
-- 💣 DorkXploit → Advanced Google Dork Tool
-- 🌐 Login Page UI → HTML Design Project
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=karthitom&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthitom&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.linkedin.com/in/karthi-jk/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.instagram.com/k_a.r.t.h.i._?igsh=dTJ0bGhvanUxdmQ4)
-
----
+```bash
+Name: Karthi
+Username: karthitom
+Role: Ethical Hacker | Developer
+Mode: Learning & Building
+Status: Online 🟢
