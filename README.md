@@ -17,7 +17,7 @@ class OffensiveSecurity:
     def __init__(self):
         self.name = "Karthitom"
         self.role = "Offensive Security Specialist"
-        self.location = "Chennai, Tamil Nadu"
+        self.location = "Salem, Tamil Nadu"
         self.mindset = "Think like an attacker, defend like a pro"
         
     def current_focus(self):
@@ -87,15 +87,6 @@ class OffensiveSecurity:
 
 ---
 
-### 🏆 `$ cat achievements.log`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=karthitom&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ### 🔥 `$ ls -la projects/`
 
@@ -113,11 +104,11 @@ class OffensiveSecurity:
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karthitom)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karthitom)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@karthitom) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthitom)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karthitom)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@karthitom)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.eu/profile/karthitom)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k_a.r.t.h.i._?igsh=dTJ0bGhvanUxdmQ4)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019cf537-83fe-7078-813e-daef01292c87)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/karthitom)
 
 </div>
@@ -135,8 +126,6 @@ class OffensiveSecurity:
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20God%20we%20trust,%20all%20others%20we%20monitor&author=NSA%20Motto)
-
 </div>
 
 ---
@@ -145,9 +134,9 @@ class OffensiveSecurity:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=karthitom&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=karthitom&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/karthitom)
 
-[![GitHub followers](https://img.shields.io/github/followers/karthitom?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/karthitom)
+[![GitHub followers](https://img.shields.io/github/followers/karthitom?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/karthitom?tab=followers)
 
 </div>
 
