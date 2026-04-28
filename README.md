@@ -34,7 +34,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](YOUR_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.linkedin.com/in/karthi-jk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.instagram.com/k_a.r.t.h.i._?igsh=dTJ0bGhvanUxdmQ4)
 
 ---
