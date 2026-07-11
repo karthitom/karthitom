@@ -28,10 +28,8 @@ class OffensiveSecurity:
             "Red Team Operations",
             "Exploit Development"
         ]
-```
-    #def get_certifications(self):
-        #return ["CEH", "eJPT", "OSCP (In Progress)"]
 
+```
 
 ---
 
