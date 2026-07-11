@@ -29,8 +29,8 @@ class OffensiveSecurity:
             "Exploit Development"
         ]
     
-    def get_certifications(self):
-        return ["CEH", "eJPT", "OSCP (In Progress)"]
+    #def get_certifications(self):
+        #return ["CEH", "eJPT", "OSCP (In Progress)"]
 ```
 
 ---
