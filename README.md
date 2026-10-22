@@ -67,32 +67,13 @@ class OffensiveSecurity:
 
 </div>
 
----
-
-### 📊 `$ sudo systemctl status stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karthitom&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41" alt="GitHub Stats" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthitom&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff0000&currStreakLabel=00ff41" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthitom&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" alt="Top Languages" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthitom&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ff0000" alt="Contribution Graph" width="98%" />
-
-</div>
-
----
-
-
 ### 🔥 `$ ls -la projects/`
 
 <div align="center">
 
-[![Python-OSINT-Tool](https://github-readme-stats.vercel.app/api/pin/?username=karthitom&repo=Python-OSINT-Tool&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)](https://github.com/karthitom/Python-OSINT-Tool)
+[![Python-OSINT-Tool](https://github-readme-stats.vercel.app/api/pin/?username=karthitom&repo=Python-OSINT-Tool&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)](https://github.com/karthitom/Nessus-Merger)
 
-[![DorkXploit](https://github-readme-stats.vercel.app/api/pin/?username=karthitom&repo=DorkXploit&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)](https://github.com/karthitom/DorkXploit)
+[![DorkXploit](https://github-readme-stats.vercel.app/api/pin/?username=karthitom&repo=DorkXploit&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)](https://github.com/karthitom/LumenRecon)
 
 </div>
 
